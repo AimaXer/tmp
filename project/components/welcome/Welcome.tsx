@@ -11,12 +11,7 @@ const Welcome = ({ navigation }: any) => {
       </Text>
       <TouchableOpacity onPress={() => navigation.navigate('Login')} style={style.button}>
         <Text style={style.buttonText}>
-          Login pacjenta
-        </Text>
-      </TouchableOpacity>
-      <TouchableOpacity onPress={() => navigation.navigate('Login')} style={style.button}>
-        <Text style={style.buttonText}>
-          Login pacjenta
+          Login
         </Text>
       </TouchableOpacity>
     </View>

@@ -1,0 +1,43 @@
+{
+	"lekarze": [{
+		"imie_nazwisko": "Piotr Nowak",
+		"UID": "CD4LKaXPjANL5niLzuXiAKdop2x2",
+		"pacjenci": [{
+			"imie": "Karolina",
+			"nazwisko": "Chmiel",
+			"wiek": 53,
+			"UID": "CD4LKaXPjANL5niLzuXiAKdop2x2",
+			"badania": [{
+					"data": "10.06.2017",
+					"lekarz": "Piotr Nowak",
+					"wyniki": [
+						"Puls:90",
+						"Poziom cukru:80",
+						"Temperatura: 35.6",
+						"Ciśnienie:125/80",
+						"BMI:17.8",
+						"Cholesterol:180 "
+					]
+			}
+		]}, {
+			"imie": "Jakub",
+			"nazwisko": "Kowalski",
+			"wiek": 43,
+			"UID": "u9uDyHEZbaQWNKE5IIJMcDJYdMD3",
+			"badania": []
+		}
+		]
+	}, {
+		"imie_nazwisko": "Anna Brzozowska",
+		"UID": "EvKaGKdurlcWnxAHWc5G7Y7zP313",
+		"pacjenci": ["NxxsXp1MWrc1FsrUjH0rgwc4T5C2"]
+	}, {
+		"imie_nazwisko": "Stanisław Mróz",
+		"UID": "E2RbnrWj8xeD6liwGLtGQh31V8A3",
+		"pacjenci": ["u9uDyHEZbaQWNKE5IIJMcDJYdMD3"]
+	}, {
+		"imie_nazwisko": "Andrzej Kulesza",
+		"UID": "vMEdm5lp36VNPM9XzEoJVVG1uzI2",
+		"pacjenci": ["u9uDyHEZbaQWNKE5IIJMcDJYdMD3"]
+	}]
+}

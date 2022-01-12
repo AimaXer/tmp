@@ -1,0 +1,75 @@
+{
+	"pacjenci": [{
+			"imie": "Karolina",
+			"nazwisko": "Chmiel",
+			"wiek": 53,
+			"UID": "CD4LKaXPjANL5niLzuXiAKdop2x22",
+			"badania": [{
+					"data": "10.06.2017",
+					"lekarz": "Piotr Nowak",
+					"wyniki": [
+						"Puls:90",
+						"Poziom cukru:80",
+						"Temperatura: 35.6",
+						"Ciśnienie:125/80",
+						"BMI:17.8",
+						"Cholesterol:180 "
+					]
+				},
+				{
+					"data": "16.05.2018",
+					"lekarz": "Anna Brzozowska",
+					"wyniki": [
+						"Puls:95",
+						"Poziom cukru:95",
+						"Temperatura: 36.1",
+						"Ciśnienie:115/78",
+						"BMI:18,7",
+						"Cholesterol:178 "
+					]
+	}]}, 
+		{
+			"imie": "Jakub",
+			"nazwisko": "Kowalski",
+			"wiek": 43,
+			"UID": "u9uDyHEZbaQWNKE5IIJMcDJYdMD3",
+			"badania": [{
+					"data": "12.03.2019",
+					"lekarz": "Stanisław Mróz",
+					"wyniki": [
+						"Puls:99",
+						"Poziom cukru:88",
+						"Temperatura: 36.6",
+						"Ciśnienie:120/80",
+						"BMI:18.8",
+						"Cholesterol:170 "
+					]
+				},
+				{
+					"data": "16.03.2020",
+					"lekarz": "Andrzej Kulesza",
+					"wyniki": [
+						"Puls:90",
+						"Poziom cukru:100",
+						"Temperatura: 37.1",
+						"Ciśnienie:134/100",
+						"BMI:19",
+						"Cholesterol:180 "
+					]
+				},
+				{
+					"data": "15.03.2021",
+					"lekarz": "Andrzej Kulesza",
+					"wyniki": [
+						"Puls:88",
+						"Poziom cukru:90",
+						"Temperatura: 36.6",
+						"Ciśnienie:160/110",
+						"BMI:19,4",
+						"Cholesterol:280 "
+					]
+				}]
+		}
+
+	]
+}
